@@ -19,4 +19,4 @@ end
 subplot(1,2,1);
 imshow(uint8(img));title('Original Image');
 subplot(1,2,2);
-imshow(uint8(im));title('Sampled Image');
+imshow(uint8(im));title('Sampled image');
