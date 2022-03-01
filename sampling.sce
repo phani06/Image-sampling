@@ -17,6 +17,6 @@ for i=1:n:h
  end
 end
 subplot(1,2,1);
-imshow(uint8(img));title('Original Image');
+imshow(uint8(img));title('Original image');
 subplot(1,2,2);
 imshow(uint8(im));title('Sampled image');
