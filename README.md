@@ -1,1 +1,1 @@
-# Image-sampling
+# Image-Sampling
